@@ -1,0 +1,593 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - link "STARK HEATERS home" [ref=e3] [cursor=pointer]:
+      - /url: "#home"
+      - img "STARK HEATERS — Precision Heating. Industrial Performance." [ref=e4]
+    - navigation "Main navigation" [ref=e5]:
+      - link "Home" [ref=e6] [cursor=pointer]:
+        - /url: "#home"
+      - link "About" [ref=e7] [cursor=pointer]:
+        - /url: "#about"
+      - link "Products" [ref=e8] [cursor=pointer]:
+        - /url: "#products"
+      - link "Applications" [ref=e9] [cursor=pointer]:
+        - /url: "#applications"
+      - link "Custom heaters" [ref=e10] [cursor=pointer]:
+        - /url: "#custom"
+      - link "Industries" [ref=e11] [cursor=pointer]:
+        - /url: "#industries"
+      - link "Contact" [ref=e12] [cursor=pointer]:
+        - /url: "#contact"
+    - link "Request a quote ↗" [ref=e13] [cursor=pointer]:
+      - /url: "#quote"
+      - text: Request a quote
+      - generic [ref=e14]: ↗
+  - main [ref=e15]:
+    - generic [ref=e16]:
+      - img "Industrial manufacturing floor" [ref=e17]
+      - generic [ref=e20]:
+        - generic [ref=e21]: Coimbatore, India Industrial heating specialists
+        - heading "ADVANCED INDUSTRIAL HEATING SOLUTIONS." [level=1] [ref=e24]:
+          - text: ADVANCEDINDUSTRIAL HEATING
+          - generic [ref=e25]: SOLUTIONS.
+        - paragraph [ref=e26]: Precision-engineered heaters for demanding industrial applications.
+        - paragraph [ref=e27]: STARK HEATERS manufactures and supplies high-performance industrial heating solutions, custom heaters and temperature-control components for diverse manufacturing industries.
+        - generic [ref=e28]:
+          - link "Explore products ↗" [ref=e29] [cursor=pointer]:
+            - /url: "#products"
+            - text: Explore products
+            - generic [ref=e30]: ↗
+          - link "Request a quote ↗" [ref=e31] [cursor=pointer]:
+            - /url: "#quote"
+            - text: Request a quote
+            - generic [ref=e32]: ↗
+        - generic [ref=e33]:
+          - generic [ref=e34]: ENGINEERED TO YOUR APPLICATION
+          - generic [ref=e35]: 11°01' N 76°57' E
+      - generic [ref=e45]:
+        - generic [ref=e46]: 01 / 06
+        - generic [ref=e47]: PRECISION IN EVERY ELEMENT
+      - link "Scroll to explore" [ref=e48] [cursor=pointer]:
+        - /url: "#about"
+    - generic "Our areas of expertise" [ref=e50]:
+      - generic [ref=e51]:
+        - generic [ref=e52]: PRECISION HEATING
+        - generic [ref=e53]: ✳
+        - generic [ref=e54]: MADE FOR INDUSTRY
+        - generic [ref=e55]: ✳
+        - generic [ref=e56]: ENGINEERED IN COIMBATORE
+        - generic [ref=e57]: ✳
+        - generic [ref=e58]: BUILT AROUND YOUR APPLICATION
+        - generic [ref=e59]: ✳
+        - generic [ref=e60]: PRECISION HEATING
+        - generic [ref=e61]: ✳
+        - generic [ref=e62]: MADE FOR INDUSTRY
+        - generic [ref=e63]: ✳
+        - generic [ref=e64]: ENGINEERED IN COIMBATORE
+        - generic [ref=e65]: ✳
+        - generic [ref=e66]: BUILT AROUND YOUR APPLICATION
+        - generic [ref=e67]: ✳
+    - generic [ref=e68]:
+      - generic [ref=e69]:
+        - generic [ref=e70]: 01 / WHO WE ARE
+        - generic [ref=e71]: STARK HEATERS — COIMBATORE, TN
+      - generic [ref=e72]:
+        - generic [ref=e73]:
+          - paragraph [ref=e74]: Built around performance
+          - heading "ENGINEERED FOR PERFORMANCE." [level=2] [ref=e76]: ENGINEEREDFOR PERFORMANCE.
+        - generic [ref=e77]:
+          - paragraph [ref=e78]: Heating is at the heart of your process. We make sure it works as hard as you do.
+          - paragraph [ref=e79]: STARK HEATERS is a manufacturer and supplier of industrial heaters and heating solutions based in Coimbatore, Tamil Nadu. We support manufacturers with application-focused components designed around real-world process demands.
+          - paragraph [ref=e80]: From custom-designed heating elements and temperature-control components to industrial ovens and furnaces, we help turn precise heat into dependable performance.
+          - link "Get to know STARK ↗" [ref=e81] [cursor=pointer]:
+            - /url: "#contact"
+            - text: Get to know STARK
+            - generic [ref=e82]: ↗
+      - generic [ref=e83]:
+        - generic [ref=e84]:
+          - generic [ref=e85]: "01"
+          - generic [ref=e86]: Industrial heatermanufacturing
+        - generic [ref=e87]:
+          - generic [ref=e88]: "02"
+          - generic [ref=e89]: Custom heatingsolutions
+        - generic [ref=e90]:
+          - generic [ref=e91]: "03"
+          - generic [ref=e92]: Ovens &furnaces
+        - generic [ref=e93]:
+          - generic [ref=e94]: "04"
+          - generic [ref=e95]: Temperatureapplications
+    - generic [ref=e96]:
+      - generic [ref=e97]:
+        - generic [ref=e98]: 02 / OUR PRODUCTS
+        - generic [ref=e99]: DESIGNED FOR INDUSTRIAL DEMANDS
+      - generic [ref=e100]:
+        - generic [ref=e101]:
+          - paragraph [ref=e102]: Heating, made specific
+          - heading "THE RIGHT HEAT. THE RIGHT FIT." [level=2] [ref=e104]: THE RIGHT HEAT.THE RIGHT FIT.
+        - paragraph [ref=e105]: Explore industrial heaters and heating equipment for manufacturing, molding and temperature-critical processes.
+      - generic [ref=e106]:
+        - article [ref=e107]:
+          - generic [ref=e108]:
+            - generic [ref=e109]: 01 / HEATING ELEMENT
+            - generic [ref=e110]: "01"
+          - generic [ref=e111]:
+            - heading "Strip Heaters" [level=3] [ref=e112]
+            - paragraph [ref=e113]: Robust surface heating for equipment, platens and industrial applications.
+            - generic [ref=e114]:
+              - link "View product ↗" [ref=e115] [cursor=pointer]:
+                - /url: "#contact"
+              - link "Request quote" [ref=e116] [cursor=pointer]:
+                - /url: "#quote"
+        - article [ref=e117]:
+          - generic [ref=e118]:
+            - generic [ref=e119]: 02 / HEATING ELEMENT
+            - generic [ref=e120]: "02"
+          - generic [ref=e121]:
+            - heading "Cartridge Heaters" [level=3] [ref=e122]
+            - paragraph [ref=e123]: Compact, close-fit heating for precision tooling and process equipment.
+            - generic [ref=e124]:
+              - link "View product ↗" [ref=e125] [cursor=pointer]:
+                - /url: "#contact"
+              - link "Request quote" [ref=e126] [cursor=pointer]:
+                - /url: "#quote"
+        - article [ref=e127]:
+          - generic [ref=e128]:
+            - generic [ref=e129]: 03 / HEATING ELEMENT
+            - generic [ref=e130]: "03"
+          - generic [ref=e131]:
+            - heading "Coil Heaters" [level=3] [ref=e132]
+            - paragraph [ref=e133]: Formed heating elements for compact, demanding thermal applications.
+            - generic [ref=e134]:
+              - link "View product ↗" [ref=e135] [cursor=pointer]:
+                - /url: "#contact"
+              - link "Request quote" [ref=e136] [cursor=pointer]:
+                - /url: "#quote"
+        - article [ref=e137]:
+          - generic [ref=e138]:
+            - generic [ref=e139]: 04 / BARREL HEATING
+            - generic [ref=e140]: "04"
+          - generic [ref=e141]:
+            - heading "Ceramic Band Heaters" [level=3] [ref=e142]
+            - paragraph [ref=e143]: Flexible, efficient barrel heating for demanding process conditions.
+            - generic [ref=e144]:
+              - link "View product ↗" [ref=e145] [cursor=pointer]:
+                - /url: "#contact"
+              - link "Request quote" [ref=e146] [cursor=pointer]:
+                - /url: "#quote"
+        - article [ref=e147]:
+          - generic [ref=e148]:
+            - generic [ref=e149]: 05 / BARREL HEATING
+            - generic [ref=e150]: "05"
+          - generic [ref=e151]:
+            - heading "Mica Band Heaters" [level=3] [ref=e152]
+            - paragraph [ref=e153]: Versatile band heating for plastic processing and machinery barrels.
+            - generic [ref=e154]:
+              - link "View product ↗" [ref=e155] [cursor=pointer]:
+                - /url: "#contact"
+              - link "Request quote" [ref=e156] [cursor=pointer]:
+                - /url: "#quote"
+        - article [ref=e157]:
+          - generic [ref=e158]:
+            - generic [ref=e159]: 06 / NOZZLE HEATING
+            - generic [ref=e160]: "06"
+          - generic [ref=e161]:
+            - heading "Nozzle Heaters" [level=3] [ref=e162]
+            - paragraph [ref=e163]: Targeted thermal performance for injection molding machine nozzles.
+            - generic [ref=e164]:
+              - link "View product ↗" [ref=e165] [cursor=pointer]:
+                - /url: "#contact"
+              - link "Request quote" [ref=e166] [cursor=pointer]:
+                - /url: "#quote"
+        - article [ref=e167]:
+          - generic [ref=e168]:
+            - generic [ref=e169]: 07 / HEATING SYSTEMS
+            - generic [ref=e170]: "07"
+          - generic [ref=e171]:
+            - heading "Industrial Heaters" [level=3] [ref=e172]
+            - paragraph [ref=e173]: Heating components configured for a broad range of industrial processes.
+            - generic [ref=e174]:
+              - link "View product ↗" [ref=e175] [cursor=pointer]:
+                - /url: "#contact"
+              - link "Request quote" [ref=e176] [cursor=pointer]:
+                - /url: "#quote"
+        - article [ref=e177]:
+          - generic [ref=e178]:
+            - generic [ref=e179]: 08 / THERMAL EQUIPMENT
+            - generic [ref=e180]: "08"
+          - generic [ref=e181]:
+            - heading "Industrial Ovens" [level=3] [ref=e182]
+            - paragraph [ref=e183]: Industrial heating chambers for drying, curing and process applications.
+            - generic [ref=e184]:
+              - link "View product ↗" [ref=e185] [cursor=pointer]:
+                - /url: "#contact"
+              - link "Request quote" [ref=e186] [cursor=pointer]:
+                - /url: "#quote"
+        - article [ref=e187]:
+          - generic [ref=e188]:
+            - generic [ref=e189]: 09 / THERMAL EQUIPMENT
+            - generic [ref=e190]: "09"
+          - generic [ref=e191]:
+            - heading "Industrial Furnaces" [level=3] [ref=e192]
+            - paragraph [ref=e193]: High-temperature equipment for specialized thermal processing.
+            - generic [ref=e194]:
+              - link "View product ↗" [ref=e195] [cursor=pointer]:
+                - /url: "#contact"
+              - link "Request quote" [ref=e196] [cursor=pointer]:
+                - /url: "#quote"
+        - article [ref=e197]:
+          - generic [ref=e198]:
+            - generic [ref=e199]: 10 / TEMPERATURE CONTROL
+            - generic [ref=e200]: "10"
+          - generic [ref=e201]:
+            - heading "Thermocouples" [level=3] [ref=e202]
+            - paragraph [ref=e203]: Temperature sensing components for industrial monitoring and control.
+            - generic [ref=e204]:
+              - link "View product ↗" [ref=e205] [cursor=pointer]:
+                - /url: "#contact"
+              - link "Request quote" [ref=e206] [cursor=pointer]:
+                - /url: "#quote"
+        - article [ref=e207]:
+          - generic [ref=e214]: 11 / ENGINEERED TO ORDER
+          - generic [ref=e215]:
+            - heading "Custom Industrial Heaters" [level=3] [ref=e216]
+            - paragraph [ref=e217]: Made for your application, dimensions and installation requirements.
+            - generic [ref=e218]:
+              - link "View product ↗" [ref=e219] [cursor=pointer]:
+                - /url: "#custom"
+              - link "Request quote" [ref=e220] [cursor=pointer]:
+                - /url: "#quote"
+    - generic [ref=e221]:
+      - img "Industrial machine and factory floor" [ref=e222]
+      - generic [ref=e224]:
+        - generic [ref=e225]:
+          - generic [ref=e226]: 03 / APPLICATIONS
+          - generic [ref=e227]: HEATING FOR THE WHOLE PROCESS
+        - generic [ref=e228]:
+          - generic [ref=e229]:
+            - paragraph [ref=e230]: Made for molding
+            - heading "HEATING SOLUTIONS FOR INJECTION MOLDING." [level=2] [ref=e232]: HEATING SOLUTIONSFOR INJECTIONMOLDING.
+          - generic [ref=e233]:
+            - paragraph [ref=e234]: Reliable heating components engineered for injection molding machines, barrels, nozzles and temperature-critical applications.
+            - paragraph [ref=e235]: When process consistency matters, the right heating element makes all the difference. We supply application-focused solutions for plastic processing equipment.
+            - generic [ref=e236]:
+              - generic [ref=e237]: Mica band heaters
+              - generic [ref=e238]: Ceramic band heaters
+              - generic [ref=e239]: Nozzle heaters
+              - generic [ref=e240]: Cartridge heaters
+              - generic [ref=e241]: Coil heaters
+            - link "Talk to our team ↗" [ref=e242] [cursor=pointer]:
+              - /url: "#quote"
+              - text: Talk to our team
+              - generic [ref=e243]: ↗
+        - generic [ref=e244]:
+          - generic [ref=e245]: INJECTION MOLDING / 01
+          - generic [ref=e246]: PRECISION AT EVERY TEMPERATURE
+    - generic [ref=e247]:
+      - generic [ref=e248]:
+        - img "Heavy industrial manufacturing equipment" [ref=e249]
+        - generic [ref=e250]: PROCESS / 02
+      - generic [ref=e251]:
+        - paragraph [ref=e252]: Temperature under control
+        - heading "PRECISION HEATING FOR RUBBER MOLDING." [level=2] [ref=e254]: PRECISION HEATINGFOR RUBBERMOLDING.
+        - paragraph [ref=e255]: Rubber molding calls for dependable, carefully managed heat. STARK HEATERS supplies customized heating solutions for rubber molding and temperature-controlled industrial processes.
+        - paragraph [ref=e256]: We work around the application—helping match heater configuration to equipment, process and installation conditions.
+        - link "Discuss your process ↗" [ref=e257] [cursor=pointer]:
+          - /url: "#quote"
+          - text: Discuss your process
+          - generic [ref=e258]: ↗
+    - generic [ref=e261]:
+      - generic [ref=e262]:
+        - generic [ref=e263]: ENGINEERING / MADE PERSONAL
+        - generic [ref=e264]: 04 — 06
+      - generic [ref=e265]:
+        - generic [ref=e266]:
+          - paragraph [ref=e267]: No off-the-shelf answer? No problem.
+          - heading "YOUR APPLICATION. OUR ENGINEERING." [level=2] [ref=e269]: YOUR APPLICATION.OUR ENGINEERING.
+        - generic [ref=e270]:
+          - paragraph [ref=e271]: We design and manufacture custom industrial heaters according to application requirements, dimensions, temperature ranges, power specifications and installation conditions.
+          - link "Discuss your requirement ↗" [ref=e272] [cursor=pointer]:
+            - /url: "#quote"
+            - text: Discuss your requirement
+            - generic [ref=e273]: ↗
+      - generic [ref=e274]:
+        - generic [ref=e275]: 01 APPLICATION REQUIREMENTS
+        - generic [ref=e276]: 02 DIMENSIONS & FIT
+        - generic [ref=e277]: 03 INSTALLATION CONDITIONS
+        - generic [ref=e278]: 04 PROCESS TEMPERATURE
+    - generic [ref=e279]:
+      - img "Industrial thermal processing equipment" [ref=e280]
+      - generic [ref=e282]:
+        - generic [ref=e283]:
+          - generic [ref=e284]: 05 / THERMAL EQUIPMENT
+          - generic [ref=e285]: INDUSTRIAL OVENS & FURNACES
+        - generic [ref=e286]:
+          - generic [ref=e287]:
+            - paragraph [ref=e288]: Built for the process
+            - heading "INDUSTRIAL OVENS & FURNACES." [level=2] [ref=e290]: INDUSTRIALOVENS &FURNACES.
+          - generic [ref=e291]:
+            - paragraph [ref=e292]: Controlled heat for demanding industrial processes.
+            - paragraph [ref=e293]: STARK HEATERS supplies industrial ovens and furnaces for applications where dependable heating and process control are essential.
+            - generic [ref=e294]:
+              - generic [ref=e295]: +Heat treatment
+              - generic [ref=e296]: +Drying
+              - generic [ref=e297]: +Preheating
+              - generic [ref=e298]: +Curing
+              - generic [ref=e299]: +Annealing
+              - generic [ref=e300]: +Industrial processing
+            - link "Explore thermal equipment ↗" [ref=e301] [cursor=pointer]:
+              - /url: "#quote"
+              - text: Explore thermal equipment
+              - generic [ref=e302]: ↗
+      - generic [ref=e303]: 05 HIGH-TEMPERATURE APPLICATIONS
+    - generic [ref=e304]:
+      - generic [ref=e310]: °C
+      - generic [ref=e311]:
+        - paragraph [ref=e312]: Measure with confidence
+        - heading "ACCURATE TEMPERATURE MEASUREMENT." [level=2] [ref=e314]: ACCURATE TEMPERATUREMEASUREMENT.
+        - paragraph [ref=e315]: Thermocouples are an essential part of industrial temperature-control systems. Find temperature sensing solutions for process monitoring, custom configurations and reliable measurement.
+      - generic [ref=e316]:
+        - generic [ref=e317]: 01 Temperature sensing
+        - generic [ref=e318]: 02 Process monitoring
+        - generic [ref=e319]: 03 Custom configurations
+        - generic [ref=e320]: 04 Reliable measurement
+    - generic [ref=e321]:
+      - generic [ref=e322]:
+        - generic [ref=e323]: 06 / THE STARK DIFFERENCE
+        - generic [ref=e324]: MADE TO WORK HARDER
+      - generic [ref=e325]:
+        - paragraph [ref=e326]: A better way to heat
+        - heading "ENGINEERING THAT SHOWS UP." [level=2] [ref=e328]: ENGINEERING THATSHOWS UP.
+      - generic [ref=e329]:
+        - article [ref=e330]:
+          - generic [ref=e331]: "01"
+          - generic [ref=e332]: ⌁
+          - heading "Precision engineering" [level=3] [ref=e333]
+          - paragraph [ref=e334]: Thoughtful heater design informed by the application and process.
+        - article [ref=e335]:
+          - generic [ref=e336]: "02"
+          - generic [ref=e337]: ⌘
+          - heading "Custom manufacturing" [level=3] [ref=e338]
+          - paragraph [ref=e339]: Made-to-requirement heating solutions for your equipment.
+        - article [ref=e340]:
+          - generic [ref=e341]: "03"
+          - generic [ref=e342]: ◈
+          - heading "Industrial-grade materials" [level=3] [ref=e343]
+          - paragraph [ref=e344]: Material selection considered for demanding environments.
+        - article [ref=e345]:
+          - generic [ref=e346]: "04"
+          - generic [ref=e347]: ⟐
+          - heading "Application-specific" [level=3] [ref=e348]
+          - paragraph [ref=e349]: Solutions shaped around real operating conditions and fit.
+        - article [ref=e350]:
+          - generic [ref=e351]: "05"
+          - generic [ref=e352]: ⊙
+          - heading "Quality-focused production" [level=3] [ref=e353]
+          - paragraph [ref=e354]: Care and attention from design through manufacturing.
+        - article [ref=e355]:
+          - generic [ref=e356]: "06"
+          - generic [ref=e357]: ↗
+          - heading "Technical support" [level=3] [ref=e358]
+          - paragraph [ref=e359]: A responsive team to help you work through your requirements.
+    - generic [ref=e363]:
+      - generic [ref=e364]:
+        - generic [ref=e365]: 07 / INDUSTRIES WE SERVE
+        - generic [ref=e366]: HEATING WHERE IT MATTERS
+      - generic [ref=e367]:
+        - generic [ref=e368]:
+          - paragraph [ref=e369]: Across the industrial landscape
+          - heading "HEAT THAT MOVES INDUSTRY." [level=2] [ref=e371]: HEAT THATMOVES INDUSTRY.
+        - generic [ref=e372]:
+          - generic [ref=e373]:
+            - text: Injection molding
+            - generic [ref=e374]: ↗
+          - generic [ref=e375]:
+            - text: Rubber molding
+            - generic [ref=e376]: ↗
+          - generic [ref=e377]:
+            - text: Plastics
+            - generic [ref=e378]: ↗
+          - generic [ref=e379]:
+            - text: Packaging
+            - generic [ref=e380]: ↗
+          - generic [ref=e381]:
+            - text: Manufacturing
+            - generic [ref=e382]: ↗
+          - generic [ref=e383]:
+            - text: Machinery
+            - generic [ref=e384]: ↗
+          - generic [ref=e385]:
+            - text: Chemical processing
+            - generic [ref=e386]: ↗
+          - generic [ref=e387]:
+            - text: Food processing
+            - generic [ref=e388]: ↗
+          - generic [ref=e389]:
+            - text: Automotive components
+            - generic [ref=e390]: ↗
+          - generic [ref=e391]:
+            - text: General engineering
+            - generic [ref=e392]: ↗
+    - generic [ref=e393]:
+      - generic [ref=e394]:
+        - generic [ref=e395]: 08 / HOW WE WORK
+        - generic [ref=e396]: FROM REQUIREMENT TO READY
+      - generic [ref=e397]:
+        - generic [ref=e398]:
+          - paragraph [ref=e399]: Our manufacturing capability
+          - heading "BUILT ON A CLEAR PROCESS." [level=2] [ref=e401]: BUILT ON ACLEAR PROCESS.
+        - paragraph [ref=e402]: A considered process connects your requirements to a heating solution made for the job.
+      - generic [ref=e403]:
+        - article [ref=e405]:
+          - generic [ref=e406]: "01"
+          - generic [ref=e407]: ⌕
+          - heading "Application requirement" [level=3] [ref=e408]: Applicationrequirement
+          - paragraph [ref=e409]: We understand the process, equipment and need.
+        - article [ref=e410]:
+          - generic [ref=e411]: "02"
+          - generic [ref=e412]: ⌗
+          - heading "Engineering & design" [level=3] [ref=e413]: Engineering& design
+          - paragraph [ref=e414]: Requirements become a considered design.
+        - article [ref=e415]:
+          - generic [ref=e416]: "03"
+          - generic [ref=e417]: ◈
+          - heading "Material selection" [level=3] [ref=e418]: Materialselection
+          - paragraph [ref=e419]: Materials are matched to the application.
+        - article [ref=e420]:
+          - generic [ref=e421]: "04"
+          - generic [ref=e422]: ⌁
+          - heading "Precision manufacturing" [level=3] [ref=e423]: Precisionmanufacturing
+          - paragraph [ref=e424]: Components are manufactured to specification.
+        - article [ref=e425]:
+          - generic [ref=e426]: "05"
+          - generic [ref=e427]: ⊙
+          - heading "Quality inspection" [level=3] [ref=e428]: Qualityinspection
+          - paragraph [ref=e429]: Production receives careful inspection.
+        - article [ref=e430]:
+          - generic [ref=e431]: "06"
+          - generic [ref=e432]: ↗
+          - heading "Delivery" [level=3] [ref=e433]
+          - paragraph [ref=e434]: Your solution is prepared for its next step.
+    - generic [ref=e435]:
+      - generic [aria-hidden]: S
+      - generic [ref=e436]:
+        - generic [ref=e437]:
+          - paragraph [ref=e438]: Let's get specific
+          - heading "LOOKING FOR THE RIGHT HEATING SOLUTION?" [level=2] [ref=e440]: LOOKING FOR THERIGHT HEATINGSOLUTION?
+          - paragraph [ref=e441]: Tell us what you need. Share your application details and our team will get back to you to discuss the right way forward.
+          - generic [ref=e442]:
+            - generic [ref=e443]: Prefer to speak directly?
+            - link "Contact STARK HEATERS ↗" [ref=e444] [cursor=pointer]:
+              - /url: "#contact"
+        - generic [ref=e445]:
+          - generic [ref=e446]:
+            - generic [ref=e447]: REQUEST A QUOTE
+            - generic [ref=e448]: 01 — 11
+          - generic [ref=e449]:
+            - generic [ref=e450]:
+              - text: Name *
+              - textbox "Name *" [ref=e451]:
+                - /placeholder: Your name
+            - generic [ref=e452]:
+              - text: Company name
+              - textbox "Company name" [ref=e453]:
+                - /placeholder: Company
+            - generic [ref=e454]:
+              - text: Phone *
+              - textbox "Phone *" [ref=e455]:
+                - /placeholder: "+91"
+            - generic [ref=e456]:
+              - text: Email *
+              - textbox "Email *" [ref=e457]:
+                - /placeholder: you@company.com
+            - generic [ref=e458]:
+              - text: Product required
+              - combobox "Product required" [ref=e459]:
+                - option "Select a product" [selected]
+                - option "Strip Heaters"
+                - option "Cartridge Heaters"
+                - option "Coil Heaters"
+                - option "Ceramic Band Heaters"
+                - option "Mica Band Heaters"
+                - option "Nozzle Heaters"
+                - option "Industrial Heaters"
+                - option "Industrial Ovens"
+                - option "Industrial Furnaces"
+                - option "Thermocouples"
+                - option "Custom Industrial Heaters"
+                - option "Other / Not sure"
+            - generic [ref=e460]:
+              - text: Temperature requirement
+              - textbox "Temperature requirement" [ref=e461]:
+                - /placeholder: e.g. operating range
+            - generic [ref=e462]:
+              - text: Voltage
+              - textbox "Voltage" [ref=e463]:
+                - /placeholder: As applicable
+            - generic [ref=e464]:
+              - text: Wattage
+              - textbox "Wattage" [ref=e465]:
+                - /placeholder: As applicable
+            - generic [ref=e466]:
+              - text: Quantity
+              - spinbutton "Quantity" [ref=e467]
+            - generic [ref=e468]:
+              - text: Application details
+              - textbox "Application details" [ref=e469]:
+                - /placeholder: Tell us about your equipment, process and requirements
+            - generic [ref=e470]:
+              - text: Upload drawing / specification
+              - button "Upload drawing / specification PDF, image or CAD file · Optional" [ref=e471]
+              - generic [ref=e472]: PDF, image or CAD file · Optional
+          - button "Request a quote ↗" [ref=e473] [cursor=pointer]:
+            - text: Request a quote
+            - generic [ref=e474]: ↗
+          - paragraph [ref=e475]: Your information is used only to respond to your enquiry.
+          - status
+    - generic [ref=e477]:
+      - generic [ref=e478]:
+        - generic [ref=e479]: 09 / GET IN TOUCH
+        - generic [ref=e480]: LET'S TALK HEATING
+      - generic [ref=e481]:
+        - generic [ref=e482]:
+          - paragraph [ref=e483]: Coimbatore, Tamil Nadu
+          - heading "LET'S MAKE IT WORK." [level=2] [ref=e485]: LET'S MAKEIT WORK.
+          - paragraph [ref=e486]: Have a product enquiry, custom requirement or process question? We would be glad to hear from you.
+        - generic [ref=e487]:
+          - generic [ref=e488]:
+            - generic [ref=e489]: FIND US
+            - link "45, Dhasar Lane, Raja Street, Ganapathy, Coimbatore – 641006, Tamil Nadu, India ↗" [ref=e490] [cursor=pointer]:
+              - /url: https://www.google.com/maps/search/?api=1&query=45%2C+Dhasar+Lane%2C+Raja+Street%2C+Ganapathy%2C+Coimbatore+641006%2C+Tamil+Nadu%2C+India
+              - text: 45, Dhasar Lane, Raja Street,Ganapathy, Coimbatore – 641006,Tamil Nadu, India ↗
+          - generic [ref=e491]:
+            - generic [ref=e492]: PHONE
+            - link "+91 95009 45946 ↗" [ref=e493] [cursor=pointer]:
+              - /url: tel:+919500945946
+            - generic [ref=e494]: Call us to discuss your heating requirements.
+            - generic [ref=e495]: WHATSAPP
+            - link "Message us on WhatsApp ↗" [ref=e496] [cursor=pointer]:
+              - /url: https://wa.me/919500945946
+          - generic [ref=e497]:
+            - generic [ref=e498]: BUSINESS ENQUIRIES
+            - link "starkheaters@gmail.com ↗" [ref=e499] [cursor=pointer]:
+              - /url: mailto:starkheaters@gmail.com
+            - generic [ref=e500]: Send your product enquiry or application details.
+          - link "✳ COIMBATORE, INDIA OPEN IN MAPS ↗" [ref=e501] [cursor=pointer]:
+            - /url: https://www.google.com/maps/search/?api=1&query=45%2C+Dhasar+Lane%2C+Raja+Street%2C+Ganapathy%2C+Coimbatore+641006%2C+Tamil+Nadu%2C+India
+            - generic [ref=e503]: ✳
+            - generic [ref=e504]: COIMBATORE, INDIA
+            - generic [ref=e505]: OPEN IN MAPS ↗
+  - contentinfo [ref=e506]:
+    - generic [ref=e507]:
+      - link "STARK HEATERS Precision Heating. Industrial Performance." [ref=e508] [cursor=pointer]:
+        - /url: "#home"
+        - img "STARK HEATERS" [ref=e509]
+        - generic [ref=e510]: Precision Heating. Industrial Performance.
+      - generic [ref=e511]:
+        - generic [ref=e512]: EXPLORE
+        - navigation [ref=e513]:
+          - link "Home" [ref=e514] [cursor=pointer]:
+            - /url: "#home"
+          - link "About us" [ref=e515] [cursor=pointer]:
+            - /url: "#about"
+          - link "Products" [ref=e516] [cursor=pointer]:
+            - /url: "#products"
+          - link "Custom heaters" [ref=e517] [cursor=pointer]:
+            - /url: "#custom"
+          - link "Industries" [ref=e518] [cursor=pointer]:
+            - /url: "#industries"
+          - link "Applications" [ref=e519] [cursor=pointer]:
+            - /url: "#applications"
+          - link "Contact" [ref=e520] [cursor=pointer]:
+            - /url: "#contact"
+          - link "Request a quote" [ref=e521] [cursor=pointer]:
+            - /url: "#quote"
+      - generic [ref=e522]:
+        - generic [ref=e523]: HAVE A REQUIREMENT?
+        - link "Let's engineer the right heat. ↗" [ref=e524] [cursor=pointer]:
+          - /url: "#quote"
+          - text: Let's engineerthe right heat. ↗
+    - generic [ref=e525]:
+      - generic [ref=e526]: © 2026 STARK HEATERS. All Rights Reserved.
+      - link "BACK TO TOP ↑" [ref=e527] [cursor=pointer]:
+        - /url: "#home"
+      - generic [ref=e528]: "Website & Copyright: Ferrax"
