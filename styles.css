@@ -13,3 +13,7 @@
   .header-quote{margin-right:8px;padding-right:8px;padding-left:8px;gap:6px;font-size:7px;white-space:nowrap}
   .menu-toggle{padding:8px;flex-shrink:0}
 }
+
+@media(max-width:800px){
+  body.menu-open .site-header{height:70px;backdrop-filter:none}
+}
